@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Marve1234567
-<!---
-Marve1234567/Marve1234567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My task was to recreate the layout of the classic Google homepage using the following technologies:
+
+HTML
+CSS
+
+I also tried to keep a log of the development using detailed commits and pushes.
